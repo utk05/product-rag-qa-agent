@@ -2,7 +2,7 @@
 
 A command-line agent that answers questions about Gutermann's water leak detection product catalogue, using a single markdown file (`product_overview.md`) as its knowledge base and retrieval-augmented generation (RAG) to keep answers grounded in that document. Run it with `python qa_agent.py` and type questions at the `>` prompt.
 
-## Setup / How to Run
+## Setup
 
 ```bash
 python3 -m venv .venv
